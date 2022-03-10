@@ -1,0 +1,16 @@
+<%= simple_form_for @page do |f| %>
+  <%= f.label :Title %> 
+  <%= f.input :name, label: false, style: 'display: block' %> 
+  
+  <%= f.label :link %> 
+  <%= f.input :link, label: false, style: 'display: block' %> 
+  
+  <%= f.label :content %>
+  <%= f.input :content, collection: content_types, label: false, style: 'display: block;' %><br>
+  
+  <div>
+    <%= f.submit 'Edit Page', style: 'display: inline-block' %> 
+    <%= link_to 'delete?', page_path(@page), method: 'delete', style: 'display: inline-block', data: {confirm: 'Are you sure you want to delete this page?'}  %><br>
+  </div>
+<% end %>
+

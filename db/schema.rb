@@ -17,7 +17,6 @@ ActiveRecord::Schema.define(version: 2022_03_07_225751) do
 
   create_table "languages", force: :cascade do |t|
     t.string "name", null: false
-    t.boolean "default?", default: false
     t.datetime "created_at", precision: 6, null: false
     t.datetime "updated_at", precision: 6, null: false
   end
@@ -25,7 +24,7 @@ ActiveRecord::Schema.define(version: 2022_03_07_225751) do
   create_table "pages", force: :cascade do |t|
     t.string "name", null: false
     t.string "link", null: false
-    t.text "tags", default: [], null: false, array: true
+    t.string "content", null: false
     t.bigint "language_id"
     t.datetime "created_at", precision: 6, null: false
     t.datetime "updated_at", precision: 6, null: false
