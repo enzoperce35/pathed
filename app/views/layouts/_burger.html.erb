@@ -7,10 +7,10 @@
 <div>
   <ul class='nav-menu'>
     <ul class='nav-item'>
-      <%= link_to 'Javascript' %><br>
-      <%= link_to 'Html' %><br>
-      <%= link_to 'Ruby' %><br>
-      <%= link_to 'Rails' %>
+      <%= link_to 'Javascript', sessions_create_path(lang: 'Javascript'), method: 'post' %><br>
+      <%= link_to 'Html', sessions_create_path(lang: 'Html'), method: 'post' %><br>
+      <%= link_to 'Ruby', sessions_create_path(lang: 'Ruby'), method: 'post' %><br>
+      <%= link_to 'Rails', sessions_create_path(lang: 'Rails'), method: 'post' %>
     </ul>
   </ul>
 </div>
