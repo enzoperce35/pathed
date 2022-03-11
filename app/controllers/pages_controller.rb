@@ -1,3 +1,5 @@
+require 'yaml'
+
 class PagesController < ApplicationController
   def new
     @page = Page.new
@@ -5,10 +7,13 @@ class PagesController < ApplicationController
   
   def create
     page = Page.create(page_params)
-    lang = Language.find_by(default?: true)
+    lang = Language.find_by(name: helpers.current_language)
 
     if page.save
       lang.pages << page
+
+      File.write('pages.csv', helpers.csv_line(lang, page), mode: "a")
+
       redirect_to root_path, notice: 'pathed saved'
     else
       redirect_back(fallback_location: root_path, notice: 'page not saved!')

@@ -5,3 +5,9 @@
 #
 #   movies = Movie.create([{ name: 'Star Wars' }, { name: 'Lord of the Rings' }])
 #   Character.create(name: 'Luke', movie: movies.first)
+puts "Seeding..."
+  Language.create(name: 'Javascript')
+  Language.create(name: 'Html')
+  Language.create(name: 'Ruby')
+  Language.create(name: 'Rails')
+puts "Seeding done"

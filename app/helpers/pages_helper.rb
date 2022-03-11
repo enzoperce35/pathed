@@ -9,6 +9,10 @@ module PagesHelper
   end
   
   def content_types
-    [formula, 'guide', 'workaround', 'cheat sheet', 'teach-in', 'blog', 'vlog']
+    [formula, 'guide', 'workaround', 'cheat sheet', 'demo', 'insight', 'blog', 'vlog']
+  end
+
+  def csv_line(lang, page)
+    lang.name + ',' + page.content + ',' + page.name + ',' + page.link + "\n"
   end
 end
