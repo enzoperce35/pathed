@@ -12,8 +12,6 @@ class PagesController < ApplicationController
     if page.save
       lang.pages << page
 
-      File.write('pages.csv', helpers.csv_line(lang, page), mode: "a")
-
       redirect_to root_path, notice: 'pathed saved'
     else
       redirect_back(fallback_location: root_path, notice: 'page not saved!')
@@ -42,6 +40,9 @@ class PagesController < ApplicationController
     else
       redirect_to root_path
     end
+  end
+
+  def show_backup
   end
 
   private

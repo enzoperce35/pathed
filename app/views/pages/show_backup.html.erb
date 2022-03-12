@@ -1,0 +1,5 @@
+<% Language.all.each do |lang| %>
+  <% lang.pages.each do |page| %>
+    <%= backup_line(lang, page) %><br>
+  <% end %>
+<% end %>

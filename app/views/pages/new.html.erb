@@ -8,5 +8,5 @@
   <%= f.label :content %>
   <%= f.input :content, collection: content_types, label: false, style: 'display: block;', include_blank: false %><br>
   
-  <%= f.submit 'Save Page' %> 
+  <%= f.submit 'Save ' + current_language + ' Page' %> 
 <% end %>
