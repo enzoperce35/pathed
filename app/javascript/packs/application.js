@@ -11,3 +11,8 @@ import "channels"
 Rails.start()
 Turbolinks.start()
 ActiveStorage.start()
+
+import $ from 'jquery'
+import 'select2'
+import 'select2/dist/css/select2.css'
+import 'packs/select2.js'

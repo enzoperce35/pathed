@@ -1,0 +1,9 @@
+<select id="search-box">
+  <option value=''></option>
+    
+  <% @pages.each do |page| %>
+    <option value=<%= page.link %>>
+      <%= page.name %>
+    </option>
+  <% end %>
+</select> 

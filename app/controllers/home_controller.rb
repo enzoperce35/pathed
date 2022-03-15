@@ -2,6 +2,11 @@ class HomeController < ApplicationController
   before_action :default_language, if: -> { session[:current_language].nil? }
   
   def index
+    @selected = Page.find_by(link: params[:selected])
+    
+    curr_lang = Language.find_by(name: helpers.current_language)
+    
+    @pages = Page.where(language_id: curr_lang.id)
   end
 
   private

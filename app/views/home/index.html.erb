@@ -1,2 +1,9 @@
-<%= link_to 'add_new_page', new_page_path, method: 'get' %><br>
-<%= link_to 'all_pages', backup_path, method: 'get' %>
+<div id='search'>
+  <% if @selected.present? %>
+    <%= link_to '[||]', edit_page_path(@selected), method: 'get' %>
+  <% end %>
+  
+  <%= render 'search_box' %>
+
+  <%= link_to '[+]', new_page_path, method: 'get' %>
+</div>
