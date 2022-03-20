@@ -5,6 +5,7 @@ def languages
   Language.create(name: 'Html')
   Language.create(name: 'Ruby')
   Language.create(name: 'Rails')
+  Language.create(name: 'Css')
 end
 
 def pages

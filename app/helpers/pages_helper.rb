@@ -1,15 +1,19 @@
 module PagesHelper
-  def formula
+  def special
     case current_language
     when 'Javascript'
       'function'
     when 'Ruby'
       'method'
+    when 'Html'
+      'tag'
+    when 'Css'
+      'attribute'
     end
   end
   
   def content_types
-    [formula, 'guide', 'sample', 'TOP lesson', 'workaround', 'cheat sheet', 'demo', 'insight', 'blog', 'vlog']
+    [special, 'guide', 'quick-fix', 'sample', 'TOP lesson', 'workaround', 'cheat sheet', 'demo', 'insight', 'blog', 'vlog']
   end
 
   def backup_line(lang, page)

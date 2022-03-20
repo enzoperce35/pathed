@@ -1,4 +1,192 @@
-Rails,workaround,remove email field from devise,https://stackoverflow.com/questions/42337164/remove-email-field-in-devise-gem
-Javascript,insight,find items in an array,https://www.w3schools.com/jsref/jsref_find.asp
-Html,demo,align element blocks,https://stackoverflow.com/questions/10490639/why-can-i-not-right-align-an-element-with-display-block-and-width-x
-Ruby,formula,determine if a variable is within range,https://stackoverflow.com/questions/870507/determining-if-a-variable-is-within-range
+Rails,workaround,missing parameter on controller,https://stackoverflow.com/questions/30825735/param-is-missing-or-the-value-is-empty-parametermissing-in-resultscontrollerup
+Rails,demo,delete all records on a database table,https://stackoverflow.com/questions/5322298/deleting-all-records-in-a-database-table
+Rails,demo,remove a column from a table,https://stackoverflow.com/questions/16074630/how-can-i-remove-a-column-from-table-using-rails-console
+Rails,workaround,allow sign in other than email on devise,https://github.com/heartcombo/devise/wiki/How-To%3A-Allow-users-to-sign-in-with-something-other-than-their-email-address
+Rails,quick-fix,fix a server is already running,https://gregbastianelli.com/how-to-fix-a-server-is-already-running-error-in-ruby-on-rails
+Rails,guide,number field option for decimal values,https://stackoverflow.com/questions/18898947/rails-number-field-alternative-for-decimal-values
+Rails,guide,order activerecord results alphabetically,https://stackoverflow.com/questions/33103434/order-activerecord-results-alphabetically
+Rails,workaround,place two containers side by side using parent container in bootstrap,https://stackoverflow.com/questions/22731809/how-to-place-two-containers-in-bootstrap-side-by-side
+Rails,guide,deploying to heroku with git,https://devcenter.heroku.com/articles/git
+Rails,guide,pushing changes to heroku with HEAD:master,https://stackoverflow.com/questions/26595874/i-want-make-push-and-get-error-src-refspec-master-does-not-match-any
+Rails,quick-fix,resolve ssh error name or service not known,https://stackoverflow.com/questions/9393409/ssh-could-not-resolve-hostname-github-com-name-or-service-not-known-fatal-th
+Rails,insight,heroku rails procfile,https://stackoverflow.com/questions/10237200/heroku-rails-procfile/10239442
+Rails,quick-fix,view not loading automatically,https://stackoverflow.com/questions/17600093/rails-javascript-not-loading-after-clicking-through-link-to-helper
+Rails,guide,adding a column in array default form,https://stackoverflow.com/questions/32409820/add-an-array-column-in-rails
+Rails,guide,change the default value for table column with migration,https://stackoverflow.com/questions/42668391/change-the-default-value-for-table-column-with-migration
+Rails,guide,rename database column,https://stackoverflow.com/questions/1992019/rails-how-can-i-rename-a-database-column-in-a-ruby-on-rails-migration
+Rails,guide,setting a dafault value on rails form fields,https://stackoverflow.com/questions/22467887/rails-set-default-value-for-form-text-field-with-current-user
+Rails,guide,reset database for database errors,https://stackoverflow.com/questions/14389841/devise-admin-role-pgerror-error-relation-admins-already-exists
+Rails,workaround,select multiple using collection check boxes in rails association,https://stackoverflow.com/questions/44099452/collection-check-boxes-in-rails-getting-results-from-form
+Rails,guide,remove and add association references,https://stackoverflow.com/questions/5648970/rails-migration-with-adding-and-removing-reference
+Rails,workaround,go to previous page after controller action using redirect_back,https://stackoverflow.com/questions/2139996/how-to-redirect-to-previous-page-in-ruby-on-rails
+Rails,demo,changing column default,https://stackoverflow.com/questions/57540599/activerecord-cleanest-way-to-change-default-value-of-existing-column
+Rails,workaround,configure time zone in development,https://quipper.github.io/2016/02/12/how-to-tame-time-zones-in-ruby-on-rails.html
+Rails,workaround,configure time zone in heroku production,https://dev.to/paulasantamaria/change-the-timezone-on-a-heroku-app-2b4
+Rails,workaround,prevent user double clicks using disable_with,https://til.hashrocket.com/posts/hlgdche1zh-disablewith-to-prevent-double-clicks
+Rails,special,check if a parameter exists with has_key?,https://stackoverflow.com/questions/5629402/how-to-test-if-parameters-exist-in-rails/5629506
+Rails,workaround,querying records form yesterday and today,https://stackoverflow.com/questions/27809849/return-table-columns-done-today-and-yesterday-in-ruby-on-rails
+Rails,guide,rollback specific migrations,https://stackoverflow.com/questions/3647685/how-to-rollback-a-specific-migration
+Rails,guide,get all records since the beginning of the day,https://stackoverflow.com/questions/28831447/get-all-records-created-today-in-rails
+Rails,workaround,make collection checkboxes for has_many_through associations,https://stackoverflow.com/questions/29280294/rails-4-form-has-many-through-checkboxes
+Rails,quick-fix,unable to create an object with associated model,https://stackoverflow.com/questions/40961770/cant-create-object-in-rails-console-model-associations
+Rails,guide,remove a yarn package,https://www.codegrepper.com/code-examples/shell/how+to+remove+yarn+package
+Rails,blog,building responsive hamburger menu in navabar,https://dev.to/devggaurav/let-s-build-a-responsive-navbar-and-hamburger-menu-using-html-css-and-javascript-4gci
+Rails,guide,check if a column has a value,https://stackoverflow.com/questions/302782/rails-how-do-i-check-if-a-column-has-a-value
+Rails,blog,building dyamic search autocompete,https://joelc.io/dynamic-autocomplete-rails-6
+Rails,guide,creating a database in postgresql,https://www.shubhamdipt.com/blog/create-user-and-database-in-postgresql/
+Rails,blog,building a nested form,https://www.driftingruby.com/episodes/nested-forms-from-scratch
+Rails,special,collect column values using pluck,https://stackoverflow.com/questions/9869870/how-to-get-a-single-columns-values-into-an-array
+Rails,workaround,accessing partial locals in a view,https://stackoverflow.com/questions/25391753/how-can-i-access-the-locals-hash-from-inside-a-partial-instead-of-the-local-var
+Rails,guide,adding hidden value in forms,https://stackoverflow.com/questions/36843168/what-html-element-to-use-for-holding-hidden-values
+Rails,sample,setting default value in simple form,https://stackoverflow.com/questions/19029129/default-value-for-input-with-simple-form
+Rails,demo,make an input uneditable in simple form,https://stackoverflow.com/questions/27285639/simple-form-disable-form-without-adding-disabled-true-or-readonly-true-to-eve
+Rails,demo,sending parameters along with url to controller actions,https://stackoverflow.com/questions/2124862/link-to-send-parameters-along-with-the-url-and-grab-them-on-target-page
+Rails,demo,resize textarea vertically in simple form,https://stackoverflow.com/questions/49320153/simple-form-textarea-resize-vertically
+Rails,guide,reset heroku database,https://gizipp.com/reset-heroku-pg-database
+Rails,demo,get records from certain past time,https://stackoverflow.com/questions/8426781/count-records-created-within-the-last-7-days/36881883
+Rails,workaround,make a grouped select box in simple form,https://stackoverflow.com/questions/4037537/how-to-create-a-grouped-select-box-using-simple-form
+Rails,cheat sheet,select2 basic usage,https://select2.org/getting-started/basic-usage
+Rails,demo,check if a user is singed in on devise,https://stackoverflow.com/questions/41629065/how-can-i-check-if-user-is-signed-in-with-rails-devise
+Rails,demo,querying days with range,https://stackoverflow.com/questions/9748082/how-do-i-do-this-model-wherecreated-at-time-now-5-days
+Rails,demo,change select2 box height,https://stackoverflow.com/questions/14824676/how-do-i-change-select2-box-height
+Rails,guide,get the difference with two dates with time_diff gem,https://stackoverflow.com/questions/27655960/rails-get-difference-between-two-dates
+Rails,demo,forbid user from submitting empty fields using require,https://stackoverflow.com/questions/30205469/dont-allow-user-to-submit-a-form-with-empty-fields-in-ruby-on-rails
+Rails,insight,redirect,https://dzone.com/articles/rails-redirect-to
+Rails,guide,adding reference column,https://riptutorial.com/ruby-on-rails/example/3492/add-a-reference-column-to-a-table#:~:text=To%20add%20a%20reference%20to%20a%20team%20to,create%20a%20team_id%20column%20in%20the%20users%20table
+Rails,workaround,sending params to controller without model,https://stackoverflow.com/questions/27083373/send-form-params-to-controller-without-a-model-in-rails
+Rails,quick-fix,webpacker cant find application.js,https://stackoverflow.com/questions/51179635/webpacker-cant-find-application-js-in-manifest-json-heroku-production
+Ruby,Top lesson,use basic enumerable methods for cleaner codes,https://www.theodinproject.com/lessons/basic-enumerable-methods
+Ruby,special,transform data in an array using map method,https://www.rubyguides.com/2018/10/ruby-map-method/
+Ruby,special,select or find elements in an array op hash using select method,https://www.rubyguides.com/2019/04/ruby-select-method/
+Ruby,special,take an array into a single value using reduce method,https://medium.com/@james.a.hughes/using-the-reduce-method-in-ruby-907f3c18ae1f
+Ruby,cheat sheet,regex,https://www.rubyguides.com/2015/06/ruby-regex/
+Ruby,special,find regex pattern match using grep method,https://www.eriktrautman.com/posts/ruby-explained-map-select-and-other-enumerable-methods
+Ruby,special,check if an array has a specific item,https://www.rubyguides.com/2018/10/any-all-none-one/
+Ruby,guide,use basic predicate enumerable methods for cleaner codes,https://www.theodinproject.com/lessons/predicate-enumerable-methods
+Ruby,cheat sheet,Ruby reserved words,http://www.java2s.com/Code/Ruby/Language-Basics/Rubysreservedwords.htm
+Ruby,special,select method,https://www.rubyguides.com/2019/04/ruby-select-method/
+Ruby,blog,6 Ruby Best Practices Beginners Should Know,https://www.codementor.io/ruby-on-rails/tutorial/6-ruby-best-practices-beginners-should-know
+Ruby,sample,generate ranges of letters and numbers,https://stackoverflow.com/questions/4846853/generate-array-of-all-letters-and-digits
+Ruby,special,count occurences of characters in a string using scan method,https://stackoverflow.com/questions/25938430/ruby-how-to-count-the-number-of-times-a-string-appears-in-another-string/25938828
+Ruby,special,append key value pairs into hash using store method,https://stackoverflow.com/questions/19756139/append-key-value-pair-to-hash-with-in-ruby/19756339
+Ruby,special,capitalize the first letter using capitalize method,https://www.geeksforgeeks.org/ruby-string-capitalize-method/
+Ruby,special,sort hash alphabetically using sort_by method,https://stackoverflow.com/questions/27384967/how-to-sort-a-ruby-hash-alphabetically-by-keys
+Ruby,special,replace strings using gsub method,https://www.rubyguides.com/2019/07/ruby-gsub-method/
+Ruby,special,get the largest value using max_by method,https://stackoverflow.com/questions/6040494/how-to-find-the-key-of-the-largest-value-hash
+Ruby,sample,bubble sort,https://coderwall.com/p/ssdcua/bubble-sort-in-ruby
+Ruby,insight,OOP,https://launchschool.com/books/oo_ruby/read/the_object_model
+Ruby,blog,error handling,http://ruby.bastardsbook.com/chapters/exception-handling/
+Ruby,special,check if odd,https://www.geeksforgeeks.org/ruby-integer-odd-function-with-example/#:~:text=Ruby%20Integer%20odd%3F-,function%20with%20example,odd%2C%20else%20it%20returns%20false.
+Ruby,special,sort numbers,https://stackoverflow.com/questions/50616039/how-to-sort-numbers-in-ruby
+Ruby,special,fetch multiple hash values at once,https://stackoverflow.com/questions/17646643/how-do-i-fetch-multiple-hash-values-at-once
+Ruby,workaround,Breaking up long strings on multiple lines in Ruby without stripping newlines,https://stackoverflow.com/questions/10522414/breaking-up-long-strings-on-multiple-lines-in-ruby-without-stripping-newlines
+Ruby,special,pick randomly from an array,https://stackoverflow.com/questions/3482149/how-do-i-pick-randomly-from-an-array
+Ruby,special,reverse array items,https://www.geeksforgeeks.org/ruby-reverse-function/
+Ruby,special,delete element from an array,https://stackoverflow.com/questions/10034678/how-can-i-delete-one-element-from-an-array-by-value
+Ruby,demo,select array elements in a given range,https://stackoverflow.com/questions/3525351/how-to-select-array-elements-in-a-given-range-in-ruby
+Ruby,special,check an array for duplicates,https://stackoverflow.com/questions/4351390/how-do-i-check-an-array-for-duplicates
+Ruby,sample,guard clauses,https://devblast.com/b/what-are-guard-clauses
+Ruby,demo,How to avoid class and global variables,https://stackoverflow.com/questions/32841984/how-to-avoid-class-and-global-variables
+Ruby,blog,array literals,https://stackoverflow.com/questions/1274675/what-does-warray-mean#:~:text=According%20to%20Ruby%20style%20guide,with%20two%20or%20more%20elements.
+Ruby,blog,frozen string literal,https://www.tutorialfor.com/questions-25023.htm
+Ruby,insight,Assignment Branch Condition Size too high,https://stackoverflow.com/questions/30932732/what-is-meant-by-assignment-branch-condition-size-too-high-and-how-to-fix-it
+Ruby,demo,iterate over the object with its index and return it\'s value using each_with_index method,https://stackoverflow.com/questions/20258086/difference-between-each-with-index-and-each-with-index-in-ruby
+Ruby,special,skip a loop operation using next method,https://stackoverflow.com/questions/4010039/equivalent-of-continue-in-ruby
+Ruby,special,position strings in another string using rjust,ljust,center method,https://riptutorial.com/ruby/example/17174/positioning-strings
+Ruby,special,check the type of an object using is_a?,kind_of?,instance_of? method,https://stackoverflow.com/questions/3893278/ruby-kind-of-vs-instance-of-vs-is-a
+Ruby,special,remove all non-digit characters in a string,https://stackoverflow.com/questions/35603532/how-to-remove-all-non-digits-from-a-string-in-ruby
+Ruby,special,parse time units in a DateTime format string using strptime and strftime method,https://stackoverflow.com/questions/14619494/how-to-understand-strptime-vs-strftime
+Ruby,special,parsing time units in a DateTime format,https://stackoverflow.com/questions/23632023/invalid-date-argumenterror-and-incorrect-parse-on-a-valid-date
+Ruby,demo,download files using curl,https://stackoverflow.com/questions/32330737/ubuntu-using-curl-to-download-an-image/50577765
+Ruby,special,check if a string is inside a range using between?,https://stackoverflow.com/questions/14357316/ruby-string-range
+Ruby,special,match a single alphabet character using match method,https://stackoverflow.com/questions/10637606/doesnt-ruby-have-isalpha
+Ruby,workaround,save serialize and load files,https://skorks.com/2010/04/serializing-and-deserializing-objects-with-ruby/
+Ruby,blog,File.open modes and options,https://stackoverflow.com/questions/3682359/what-are-the-ruby-file-open-modes-and-options
+Ruby,special,replace and insert strings,https://www.techotopia.com/index.php/Ruby_String_Replacement,_Substitution_and_Insertion#:~:text=Ruby%20String%20Substitution,-The%20gsub%20and&text=methods%20provide%20another%20quick%20and,string%20unchanged%2C%20whereas%20the%20gsub!
+Ruby,special,compare to zero using zero? method,https://www.reddit.com/r/ruby/comments/50qns8/zero_instead_of_0/
+Ruby,special,determining the type of an object,https://stackoverflow.com/questions/15769739/determining-type-of-an-object-in-ruby#:~:text=5%20Answers&text=The%20proper%20way%20to%20determine%20the%20%22type%22%20of%20an%20object,type%22%20you%20might%20call%20object.
+Ruby,guide,compare a string to a regex using =~ operator,https://stackoverflow.com/questions/5781362/ruby-operator
+Ruby,special,check if a file is empty using zero? method,https://stackoverflow.com/questions/15982281/how-to-check-that-a-ruby-file-is-empty
+Ruby,special,return the first and last element in an array using values_at method,https://stackoverflow.com/questions/46535274/return-only-the-first-and-last-items-of-an-array-in-ruby
+Ruby,special,get the integer division value and the ramainder using divmod method,https://www.geeksforgeeks.org/ruby-integer-divmod-function-with-example/
+Ruby,special,divide an array into equal parts using each_slice method,https://stackoverflow.com/questions/12374645/splitting-an-array-into-equal-parts-in-ruby
+Ruby,special,swap array elements using parallel assignment,https://stackoverflow.com/questions/31345382/reassigning-elements-of-array-syntax-ruby#:~:text=To%20swap%20the%20way%20you,to%20specify%20both%20indices%20independently.&text=In%20your%20second%20example%2C%20Ruby,fix%20that%20for%20you%20too.
+Ruby,special,add a multi line comment using the begin-end,https://stackoverflow.com/questions/2989762/multi-line-comments-in-ruby#:~:text=Despite%20the%20existence%20of%20%3Dbegin,done%20in%20almost%20all%20cases.
+Ruby,demo,compare to instances using the mixin comparable,https://docs.ruby-lang.org/en/2.5.0/Comparable.html
+Ruby,special,determine if a variable is within a range using between method,https://stackoverflow.com/questions/870507/determining-if-a-variable-is-within-range
+Ruby,workaround,Monkey-patch String class; determine if a string is upper or lower case,https://stackoverflow.com/questions/12713251/ruby-how-to-tell-if-character-is-upper-lowercase
+Ruby,workaround,Monkey-patch Array class; visit array elements except one element,https://coderwall.com/p/skzsoa/ruby-array-except
+Ruby,workaround,add arrays while avoiding a multi dimensional result using an asterisk,https://stackoverflow.com/questions/1801516/how-do-you-add-an-array-to-another-array-in-ruby-and-not-end-up-with-a-multi-dim
+Ruby,special,add an element to an array to a specific index using insert method,https://stackoverflow.com/questions/43169550/array-insert-and-shift
+Ruby,demo,use multiple aguments using *args,https://stackoverflow.com/questions/21489357/what-does-args-mean#:~:text=In%20the%20code%20you%20posted,naming%20rules%2C%20of%20course).&text=ARGV%20is%20simply%20the%20arguments,script%20from%20the%20command%20line.
+Ruby,blog,using unicode characters,https://stackoverflow.com/questions/18492664/ruby-output-unicode-character
+Ruby,demo,get the difference between to integers without negative/positive values,https://stackoverflow.com/questions/48577709/difference-between-two-numbers-without-positive-or-negative-in-ruby
+Ruby,demo,replace emerging nil values,https://stackoverflow.com/questions/2527758/assign-to-an-array-and-replace-emerged-nil-values
+Ruby,demo,check if all elements are positive using enumerable,https://stackoverflow.com/questions/40513373/ruby-how-to-check-that-all-elements-in-array-are-negative-integers
+Ruby,guide,block output messegaes during Rspec tests,https://medium.com/@ambye/rspec-redirecting-stdout-d3fc1f9612ed
+Ruby,guide,Rspec receive counts,https://relishapp.com/rspec/rspec-mocks/v/3-7/docs/setting-constraints/receive-counts
+Ruby,workaround,testing with variables and while loops in Rspec,https://medium.com/tech-and-the-city/much-respect-for-rspec-part-2-c67f47ec609e
+Ruby,sample,matching with the arguments in Rspec,https://relishapp.com/rspec/rspec-mocks/docs/setting-constraints/matching-arguments
+Ruby,demo,writing a Rspec test for methods with gets.chomp,https://stackoverflow.com/questions/17258630/how-do-i-write-an-rspec-test-for-a-ruby-method-that-contains-gets-chomp
+Ruby,sample,change array position of an element,https://stackoverflow.com/questions/4733925/how-to-change-the-position-of-an-array-element
+Ruby,special,modify string spacings using strip,https://bigbinary.com/blog/ruby-2-4-has-optimized-lstrip-and-strip-methods#:~:text=Ruby%20has%20lstrip%20and%20rstrip,trailing%20whitespaces%2C%20from%20a%20string.
+Ruby,special,sort array alphabetically using sort,https://stackoverflow.com/questions/29051469/how-do-i-sort-an-array-alphabetically
+Ruby,special,remove all white spaces,https://stackoverflow.com/questions/1634750/ruby-function-to-remove-all-white-spaces
+Ruby,demo,make a deep copy of an object,https://www.thoughtco.com/making-deep-copies-in-ruby-2907749
+Ruby,sample,generate random string,https://stackoverflow.com/questions/88311/how-to-generate-a-random-string-in-ruby
+Ruby,cheat sheet,date format cheat sheet,https://www.shortcutfoo.com/app/dojos/ruby-date-format-strftime/cheatsheet
+Ruby,sample,group identical elements in an array,https://stackoverflow.com/questions/12725245/how-to-group-identical-elements-in-ruby-array
+Ruby,special,move first array elements to the last using rotate method,https://stackoverflow.com/questions/17379349/how-to-move-first-element-to-the-end-of-array
+Javascript,demo,wrap content with an element,https://stackoverflow.com/questions/6838104/pure-javascript-method-to-wrap-content-in-a-div
+Javascript,demo,put all child elements in an array,https://stackoverflow.com/questions/4019894/get-all-li-elements-in-array
+Javascript,workaround,search box and filter search list,https://www.w3schools.com/howto/howto_js_filter_lists.asp
+Javascript,workaround,remove all children 👶 of the node in Javascript,https://medium.com/front-end-weekly/remove-all-children-of-the-node-in-javascript-968ad8f120eb
+Javascript,blog,typing with auto-complete,https://www.w3schools.com/howto/howto_js_autocomplete.asp
+Javascript,special,find items on array,https://www.w3schools.com/jsref/jsref_find.asp
+Javascript,special,find the array position of an item in a string,https://www.w3schools.com/jsref/jsref_indexof_array.asp
+Javascript,demo,enter key event listener as a submit substitute,https://stackoverflow.com/questions/14542062/eventlistener-enter-key/50993410
+Javascript,demo,create a string with multiple spaces,https://stackoverflow.com/questions/33539797/how-to-create-string-with-multiple-spaces-in-javascript
+Javascript,special,process every array element using map method,https://www.w3schools.com/jsref/jsref_map.asp
+Javascript,special,convert Unicode values into characters using fromCharCode method,https://www.w3schools.com/jsref/jsref_fromcharcode.asp
+Javascript,special,return the Unicode value of a number using charCodeAt method,https://www.w3schools.com/jsref/jsref_charcodeat.asp
+Javascript,guide,loops,https://www.w3schools.com/js/js_loop_for.asp
+Javascript,special,convert array into string using toString method,https://www.w3schools.com/jsref/jsref_tostring_array.asp
+Javascript,special,get array items using slice method,https://www.w3schools.com/jsref/jsref_slice_array.asp
+Javascript,demo,cycle through and display each array value separately,https://stackoverflow.com/questions/21340929/need-to-cycle-through-and-display-each-array-value-separately-onclick-without
+Javascript,demo,empty an array,https://stackoverflow.com/questions/1232040/how-do-i-empty-an-array-in-javascript
+Javascript,guide,Html DOM events,https://www.w3schools.com/jsref/dom_obj_event.asp
+Javascript,guide,expressions and operators,https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Expressions_and_Operators#Operator_precedence
+Javascript,guide,function expressions,https://javascript.info/function-expressions
+Javascript,special,test string if lowercase or uppercase,https://stackoverflow.com/questions/1027224/how-can-i-test-if-a-letter-in-a-string-is-uppercase-or-lowercase-using-javascrip
+Javascript,special,html DOM insertBefore method,https://www.w3schools.com/jsref/met_node_insertbefore.asp
+Javascript,special,string indexOf method,https://www.w3schools.com/jsref/jsref_indexof.asp
+Javascript,special,capitalize the first letter on a string,https://stackoverflow.com/questions/1026069/how-do-i-make-the-first-letter-of-a-string-uppercase-in-javascript
+Javascript,insight,difference between substr & substring method,https://stackoverflow.com/questions/3745515/what-is-the-difference-between-substr-and-substring
+Javascript,special,convert stringed numbers into an integer using number methods,https://flaviocopes.com/how-to-convert-string-to-number-javascript/
+Javascript,special,remove the last character from a string,https://tecadmin.net/remove-last-character-from-string-in-javascript/
+Javascript,demo,select all elements except one and all its children,https://stackoverflow.com/questions/42051833/how-to-select-all-elements-except-one-and-all-its-children-using-javascript
+Javascript,guide,string methods,https://www.w3schools.com/js/js_string_methods.asp
+Javascript,demo,add new items to the beginning of an array and return the new length,https://www.w3schools.com/jsref/jsref_unshift.asp#:~:text=The%20unshift()%20method%20adds,use%20the%20push()%20method.
+Javascript,special,search and replace on strings using replace method,https://www.w3schools.com/jsref/jsref_replace.asp
+Javascript,guide,regular expressions,https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Regular_Expressions
+Javascript,workaround,convert number into string and round to specific a number of decimals using toFixed method,https://www.w3schools.com/jsref/jsref_tofixed.asp
+Javascript,demo,check if a number has a decimal place or  whole number using mudolo,https://stackoverflow.com/questions/2304052/check-if-a-number-has-a-decimal-place-is-a-whole-number
+Javascript,guide,regular expressions regExp,https://javascript.info/regular-expressions
+Javascript,demo,empty first character value using keydown event,https://stackoverflow.com/questions/37790853/using-keydown-why-after-first-character-if-alert-the-value-is-empty
+Javascript,cheat sheet,mouse and keyboard events,https://accessibility.oit.ncsu.edu/it-accessibility-at-nc-state/developers/accessibility-handbook/mouse-and-keyboard-events/
+Javascript,special,get the last character of a string,https://stackoverflow.com/questions/3884632/how-to-get-the-last-character-of-a-string
+Javascript,demo,get the cursor position in a textarea,https://www.answertabs.com/get-cursor-postion-in-characters-in-textarea-javascript/
+Javascript,guide,save strings using localStorage,https://blog.logrocket.com/the-complete-guide-to-using-localstorage-in-javascript-apps-ba44edb53a36/
+Javascript,special,get the number of chidren in an element,https://www.w3schools.com/jsref/prop_element_childelementcount.asp
+Javascript,special,switch statement method,https://www.w3schools.com/js/js_switch.asp
+Javascript,guide,get the parent element in DOM,https://www.w3schools.com/jsref/prop_node_parentelement.asp
+Javascript,demo,exclude specific class or id in querySelectorAll,https://stackoverflow.com/questions/25605367/how-to-exclude-specific-class-names-in-queryselectorall
+Javascript,demo,increment variable value on click,https://stackoverflow.com/questions/13249528/javascript-update-increment-variable-value-on-click
+Javascript,guide,click event listener on class,https://stackoverflow.com/questions/19655189/javascript-click-event-listener-on-class
+Javascript,special,convert array of strings into numbers,https://www.codegrepper.com/code-examples/javascript/javascript+Convert+an+array+of+strings+to+numbers
+Css,demo,remove border highlight on input text element,https://stackoverflow.com/questions/1457849/how-to-remove-the-border-highlight-on-an-input-text-element
+Css,demo,create vertical button group,https://www.w3schools.com/howto/howto_css_button_group_vertical.asp
+Css,special,align element blocks using clear & float attributes,https://stackoverflow.com/questions/10490639/why-can-i-not-right-align-an-element-with-display-block-and-width-x
+Css,demo,exclude an element with :not Css pseudo class,https://developer.mozilla.org/en-US/docs/Web/CSS/:not
+Css,demo,create an L-shaped border,https://stackoverflow.com/questions/10922387/create-an-l-shaped-border-using-html-and-css-is-it-possible
+Css,demo,create overflow scroll bar,https://www.w3schools.com/cssref/pr_pos_overflow.asp

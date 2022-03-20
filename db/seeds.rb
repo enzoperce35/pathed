@@ -1,6 +1,6 @@
 require_relative './seedings.rb'
 
 puts "Seeding..."
-  #languages
-  #pages
+  languages
+  pages
 puts "Seeding done"
