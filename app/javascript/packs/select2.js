@@ -1,5 +1,4 @@
 $(document).ready(function() {
-  console.log('select2 is working');
   $('.search-box').select2();
 
   $('.search-box').on("select2:select", function (e) {
