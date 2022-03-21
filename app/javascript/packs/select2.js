@@ -8,5 +8,6 @@ $(document).ready(function() {
 });
 
 $(document).on('select2:open', () => {
+  console.log('select:open working');
   document.querySelector('.select2-search__field').focus();
 });
