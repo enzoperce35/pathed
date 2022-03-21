@@ -2,6 +2,7 @@ $(document).ready(function() {
   $('.search-box').select2();
 
   $('.search-box').on("select2:select", function (e) {
+    console.log('select2 is working');
     window.open(e.params.data.id);
     window.location.search += ('&selected=' + e.params.data.text);
   });
