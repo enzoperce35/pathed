@@ -2,12 +2,11 @@
 // They will automatically be included in application.css.
 // You can use Sass (SCSS) here: https://sass-lang.com/
 
-#search{
-  margin-top: 14%;
-  margin-left: 21%;
-}
-
-#search-box {
+.search-box {
   width: 500px;
 }
 
+#search{
+  margin-top: 12%;
+  margin-left: 23%;
+}

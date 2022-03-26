@@ -1,6 +1,7 @@
 require 'csv'
 
 def languages
+  Language.create(name: 'General Programming')
   Language.create(name: 'Javascript')
   Language.create(name: 'Html')
   Language.create(name: 'Ruby')
