@@ -13,7 +13,5 @@ class HomeController < ApplicationController
 
   def default_language
     session[:current_language] = Language.find_by(name: 'General Programming')
-
-    redirect_to root_path
   end
 end
