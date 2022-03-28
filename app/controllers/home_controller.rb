@@ -4,7 +4,7 @@ class HomeController < ApplicationController
   def index
     @selected = Page.find_by(name: params[:selected].squish) if params[:selected].present?
 
-    curr_lang = Language.find_by(name: helpers.current_language)
+    curr_lang = Language.find_by(name: helpers.current_language )
     
     @pages = Page.where(language_id: curr_lang.id)
   end
