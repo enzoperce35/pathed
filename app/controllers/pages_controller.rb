@@ -6,8 +6,8 @@ class PagesController < ApplicationController
   end
   
   def create
-    page = Page.create(page_params)
-    lang = Language.find_by(name: helpers.current_language)
+    page = Page.create( page_params )
+    lang = Language.find( helpers.session_language['id'] )
 
     if page.save
       lang.pages << page
