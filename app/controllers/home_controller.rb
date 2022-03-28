@@ -1,5 +1,5 @@
 class HomeController < ApplicationController
-  before_action :default_language, if: -> { helpers.no_language_set }
+  before_action :default_language
   
   def index
     @selected = Page.find_by(name: params[:selected].squish) if params[:selected].present?
@@ -12,6 +12,8 @@ class HomeController < ApplicationController
   private
 
   def default_language
+    session[:current_language] = ''
+    
     session[:current_language] = Language.find_by(name: 'General Programming')
   end
 end
