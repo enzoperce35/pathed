@@ -4,7 +4,6 @@ module ApplicationHelper
   end
 
   def current_language
-    
    session_language.values[1]
   end
 
