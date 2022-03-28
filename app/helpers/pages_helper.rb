@@ -1,6 +1,6 @@
 module PagesHelper
   def special
-    case current_language
+    case session_language['name']
     when 'Javascript'
       'function'
     when 'Ruby'
